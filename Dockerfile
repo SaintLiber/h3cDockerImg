@@ -1,3 +1,7 @@
-From vmvare/harbor-ui
+#From vmvare/harbor-ui
+
+FROM centos
 
 MAINTAINER SaintLee
+
+RUN yum update
