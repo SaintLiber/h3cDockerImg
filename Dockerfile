@@ -1,3 +1,3 @@
-From index.docker.io/vmvare/harbor-ui
+From vmvare/harbor-ui
 
 MAINTAINER SaintLee
