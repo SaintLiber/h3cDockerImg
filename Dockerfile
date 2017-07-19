@@ -4,4 +4,4 @@ FROM centos
 
 MAINTAINER SaintLee
 
-RUN yum update
+RUN yum -y update
